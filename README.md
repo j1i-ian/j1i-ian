@@ -1,6 +1,7 @@
 ## Gitlab
 
-https://organic-roof-98f.notion.site/f953478c9c1e4da0a229443398a0c451?pvs=4
+![image](https://github.com/j1i-ian/j1i-ian/assets/13825203/b3f5ac46-9f68-433c-b728-806c219beab7)
+
 
 ## OpenSource 활동
 
