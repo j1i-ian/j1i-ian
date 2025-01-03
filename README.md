@@ -14,8 +14,10 @@
 * [scripts4u](https://github.com/j1i-ian/scripts4u)
 * [TypeORM-Faker](https://gitlab.com/typeorm-faker/typeorm-faker)
     * [npm repo](https://www.npmjs.com/package/typeorm-faker)
+    * [Sample Example Project Repo](https://gitlab.com/typeorm-faker/typeorm-fake-sample)
 * [Nestjs-matrix-param](https://gitlab.com/cyan-kinesin/nestjsx-matrix-param)
 
-## 기타 취미
+### 기타 취미
 
 * [Noktension](https://gitlab.com/cyan-kinesin/noktension)
+* [Clean Commit](https://gitlab.com/clean-commit)
