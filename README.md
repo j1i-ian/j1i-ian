@@ -7,10 +7,8 @@
 
 [Link](https://gitlab.com/cyan-kinesin)
 
-## OpenSource 활동
+## OpenSource Activities
 
-[TypeORM-Faker](https://www.npmjs.com/package/typeorm-faker)
-
-[git-prune-script](https://www.npmjs.com/package/git-prune-scripts?activeTab=readme)
-
-[Nestjsx-Matrix-params]()
+* [scripts4u[(https://github.com/j1i-ian/scripts4u)
+* [TypeORM-Faker](https://gitlab.com/typeorm-faker/typeorm-faker
+    * [npm repo](https://www.npmjs.com/package/typeorm-faker)
