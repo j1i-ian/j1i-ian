@@ -24,4 +24,3 @@
 ### 기타 취미
 
 * [Noktension](https://gitlab.com/cyan-kinesin/noktension)
-* [Clean Commit](https://gitlab.com/clean-commit)
