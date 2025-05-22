@@ -7,6 +7,10 @@
 
 [Link](https://gitlab.com/cyan-kinesin)
 
+## Blog
+
+[Notion Blog](https://organic-roof-98f.notion.site/alan-blog-a1d4f82748b84be48a20553380bf8c85)
+
 ## OpenSource Activities
 
 ### Utils
